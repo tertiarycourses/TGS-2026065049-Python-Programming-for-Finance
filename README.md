@@ -53,8 +53,8 @@ Every lab folder contains a scenario, README, PDF guide, starter code, reference
 ```text
 .
 ├── courseware/
-│   ├── Python Programming for Finance-v1.1.pptx
-│   ├── Python Programming for Finance-v1.1.pdf
+│   ├── Python Programming for Finance-v1.2.pptx
+│   ├── Python Programming for Finance-v1.2.pdf
 │   ├── LG-Python Programming for Finance.docx
 │   ├── LG-Python Programming for Finance.pdf
 │   ├── LP-Python Programming for Finance.docx
