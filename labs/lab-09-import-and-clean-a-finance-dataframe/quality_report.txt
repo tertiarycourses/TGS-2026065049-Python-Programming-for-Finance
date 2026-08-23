@@ -1,0 +1,2 @@
+before={'rows': 36, 'duplicates': 1, 'missing_close': 1}
+after={'rows': 35, 'missing_close': 0}

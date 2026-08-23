@@ -1,0 +1,6 @@
+Applicant_ID,Sector_Code,Region,Risk_Band,Exposure,Credit_Score
+L1,FIN,SG,Low,200000,780
+L2,TECH,SG,Medium,350000,710
+L3,FIN,MY,High,175000,640
+L4,MFG,SG,Medium,420000,690
+L5,TECH,MY,Low,280000,760

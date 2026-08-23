@@ -1,0 +1,7 @@
+Applicant_ID,Annual_Income,Monthly_Debt,Credit_Score,Missed_Payment
+A001,72000,1600,550,False
+A002,48000,2100,720,True
+A003,132000,3200,810,False
+A004,36000,1900,640,True
+A005,95000,2500,760,False
+A006,54000,900,690,False
