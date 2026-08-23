@@ -13,7 +13,7 @@
 
 </div>
 
-![Python Programming for Finance course visual](courseware/assets/python-finance-cover-v1.png)
+![Python Programming for Finance course visual](courseware/assets/python-finance-cover-v2.png)
 
 ## About this repository
 
@@ -53,8 +53,8 @@ Every lab folder contains a scenario, README, PDF guide, starter code, reference
 ```text
 .
 ├── courseware/
-│   ├── Python Programming for Finance-v1.0.pptx
-│   ├── Python Programming for Finance-v1.0.pdf
+│   ├── Python Programming for Finance-v1.1.pptx
+│   ├── Python Programming for Finance-v1.1.pdf
 │   ├── LG-Python Programming for Finance.docx
 │   ├── LG-Python Programming for Finance.pdf
 │   ├── LP-Python Programming for Finance.docx
