@@ -15,11 +15,31 @@
 
 ![Python Programming for Finance course visual](courseware/assets/python-finance-cover-v2.png)
 
+## Course details
+
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2026065049` |
+| Programme | WSQ-accredited, SkillsFuture-funded (listed as CASL on the course page) |
+| Duration | 3 days / 24 hours, plus 2 hours of assessment |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/casl-python-programming-for-finance.html) |
+| Funding | Up to 70% course fee funding for eligible learners and employers. Eligibility and current terms apply; see the course page. |
+
 ## About this repository
 
 This is the public learner repository for **Python Programming for Finance** (`TGS-2026065049`) by Tertiary Infotech Academy Pte Ltd. The course develops a controlled analytical workflow—from finance requirements and Python fundamentals through data quality, aggregation, visualisation, rolling analysis and an executive evidence pack.
 
 The slide deck is deliberately concept-led. Detailed procedures, exact commands, evidence requirements and acceptance criteria are in the Learner Guide and each lab folder.
+
+## Learning outcomes
+
+- **LO1.** Translate finance business requirements into clear Python programming objectives and configure a reproducible development environment.
+- **LO2.** Use Python data types and operators to represent, calculate and present financial information accurately.
+- **LO3.** Organise finance logic with conditional statements, loops and comprehensions to solve repeatable analytical problems.
+- **LO4.** Create reusable functions and lambda-based transformations for finance business use cases.
+- **LO5.** Import, inspect, filter, slice and clean finance data with Pandas Series and DataFrames.
+- **LO6.** Join, aggregate, test and visualise finance data using groupby, pivot tables and appropriate charts.
+- **LO7.** Improve analytical code with apply and pipe, use descriptive statistics, and analyse changes in financial data over time.
 
 ## Course topics
 
